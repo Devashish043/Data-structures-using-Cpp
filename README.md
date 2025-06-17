@@ -31,6 +31,13 @@ This project contains custom-built implementations of various **Data Structures*
 - Zigzag Traversal
 - Vertical Traversal
 
+### 🌴 Generic Tree (N-ary Tree)
+- Insertion (Push)
+- Deletion (Pop)
+- Traverse children of any node
+- Generic node support via templates
+- Flexible structure supporting arbitrary branching
+
 ### 📦 Stack
 - Push
 - Pop
@@ -61,5 +68,3 @@ This project contains custom-built implementations of various **Data Structures*
 All major data structures in this repository are designed using **C++ templates**, enabling:
 - Reusability with custom data types
 - Type safety and generic design
-
-```cpp
